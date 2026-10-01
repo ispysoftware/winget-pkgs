@@ -15,7 +15,6 @@ ProductCode: '{4A7354B1-4648-4C3D-B4B8-DD1B1E85B6E5}'
 AppsAndFeaturesEntries:
 - DisplayName: Agent DVR
   Publisher: DEVELOPER IN A BOX
-  DisplayVersion: 8.0.7.0
   ProductCode: '{4A7354B1-4648-4C3D-B4B8-DD1B1E85B6E5}'
 ElevationRequirement: elevatesSelf
 Installers:
